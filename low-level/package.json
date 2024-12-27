@@ -1,0 +1,17 @@
+{
+  "name": "my-cpu",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "gatekeeper": "github:martian17/binary-circuit-js-v2",
+    "jest": "^29.7.0"
+  }
+}
